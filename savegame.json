@@ -1,0 +1,46 @@
+{
+    "game_mode": "player_vs_bot",
+    "map_path": "maps/map2.txt",
+    "food_pos": [
+        26.0,
+        12.0
+    ],
+    "players": [
+        {
+            "id": 1,
+            "body": [
+                [
+                    27.0,
+                    5.0
+                ]
+            ],
+            "direction": [
+                1.0,
+                0.0
+            ],
+            "score": 0,
+            "alive": true,
+            "is_bot": false
+        },
+        {
+            "id": 2,
+            "body": [
+                [
+                    13.0,
+                    11.0
+                ],
+                [
+                    13.0,
+                    10.0
+                ]
+            ],
+            "direction": [
+                0.0,
+                1.0
+            ],
+            "score": 1,
+            "alive": true,
+            "is_bot": true
+        }
+    ]
+}
